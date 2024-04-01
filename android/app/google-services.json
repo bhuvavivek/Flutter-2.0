@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691489374621",
+    "project_id": "todo-f0924",
+    "storage_bucket": "todo-f0924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691489374621:android:2725f735bf7a0eab886f74",
+        "android_client_info": {
+          "package_name": "com.example.journey_ii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyAzO2-uup0MBtCutzcKriBuh6PhAM6WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
